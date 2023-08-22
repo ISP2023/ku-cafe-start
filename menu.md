@@ -1,3 +1,5 @@
 ## Menu
 
-- Link to menu section
+[First Food Section](#first-food-section) | ...
+
+## First Food Section
